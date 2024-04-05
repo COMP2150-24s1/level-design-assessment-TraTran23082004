@@ -62,26 +62,25 @@ The acid is placed so that the player think twice and act more careful before th
 Moving platform are used to increase intensity from just normal platform created by tiles. Upon reaching this platform, the player have to consider when to jump on, how long should they wait, when to jump off,etc thus create intensity. 
 ### 2.4. Spitters
 The spitter urges the player to think and move faster so that they can avoid being hit by it. This enemy is used to create an early intensity and to introduce the player to the game's active enemies.
+### 2.5. Checkpoints
+The checkpoint is placed since this first encounter can be quite frustrating for many players, so the checkpoint make sure that they would not have to get through this tricky section again when they fell. 
 
 ### Encounter 2: 
 ![Encounter2](DocImages/storyboard3.png)
-### 2.5. Weapon Pickup (Staff)
+### 2.6. Weapon Pickup (Staff)
 The staff can be used for close-range attack, and unlike the gun, it doesn't have any limit on how many time the player can use it. 
-### 2.6. Chompers
+### 2.7. Chompers
 The chomper is placed so that the player can immediately see the use of the staff since if they don't defeat the chomper, they will have trouble obtaining the key.
-### 2.7. Keys
-Key is placed after the player has finished a handful of challenges in this section. To get to the key, they must defeat or get around the chomper, this is to make the player feel more statisfied and encouraged as their hard earn work is greatly reward. 
-
+### 2.8. Keys
+Key is placed after the player has finished a handful of challenges in this section. To get to the key, they must defeat or get around the chomper for additional challenge to increase the drama and keep the flow going. 
 ### Encounter 3:
 ![Encounter3](DocImages/storyboard4.png)
-### 2.8. Spikes
+### 2.9. Spikes
 The spikes are used to create visible risks for the player, it make them rethink their route and indirectly hint which way to jump and which direction to move towards. In this case, it help showing the player where the passthrough platform is. 
-### 2.7. Passthrough Platforms
+### 2.10. Passthrough Platforms
 Passthrough platform is used to make the game become more interesting, as the level now have an interactive platform that they can used in multiple way. To advance in sections with passthrough platform, the player must think out of the box. 
-
-### 2.2. Checkpoints
-
-### 2.4. Health Pickups
+### 2.11. Health Pickups
+This is the final reward after the scene to make the player feel more statisfied and encouraged as their hard earn work is greatly reward and also motivated them to move to harder challenges as they just been a given another health. 
 
 
 ## 3. Spatiotemporal Design
