@@ -50,31 +50,39 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### Ecounter 2: 
-![Encounter2](storyboard1/.png)
-### 2.1. Acid
+### 2.1. Weapon Pickup (Gun)
+![Weapon Pickup(Gun)](DocImages/storyboard2.png)
+The gun can be used to attack enemies from long-range even before they start moving or when they start noticing the player. However, the gun has a limit of bullets available. 
+
+### Encounter 1: 
+![Encounter1](DocImages/storyboard1.png)
+### 2.2. Acid
 The acid is placed so that the player think twice and act more careful before they make any jump. 
-### 2.9. Spitters
-The spitter urges the player to think and move faster so that they can avoid being hit by it. This enemy is used to create an early intensity and to introduce the player to the game's active enemies.
-### 2.6. Moving Platforms
+### 2.3. Moving Platforms
 Moving platform are used to increase intensity from just normal platform created by tiles. Upon reaching this platform, the player have to consider when to jump on, how long should they wait, when to jump off,etc thus create intensity. 
+### 2.4. Spitters
+The spitter urges the player to think and move faster so that they can avoid being hit by it. This enemy is used to create an early intensity and to introduce the player to the game's active enemies.
+
+### Encounter 2: 
+![Encounter2](DocImages/storyboard3.png)
+### 2.5. Weapon Pickup (Staff)
+The staff can be used for close-range attack, and unlike the gun, it doesn't have any limit on how many time the player can use it. 
+### 2.6. Chompers
+The chomper is placed so that the player can immediately see the use of the staff since if they don't defeat the chomper, they will have trouble obtaining the key.
+### 2.7. Keys
+Key is placed after the player has finished a handful of challenges in this section. To get to the key, they must defeat or get around the chomper, this is to make the player feel more statisfied and encouraged as their hard earn work is greatly reward. 
+
+### Encounter 3:
+![Encounter3](DocImages/storyboard4.png)
+### 2.8. Spikes
+The spikes are used to create visible risks for the player, it make them rethink their route and indirectly hint which way to jump and which direction to move towards. In this case, it help showing the player where the passthrough platform is. 
+### 2.7. Passthrough Platforms
+Passthrough platform is used to make the game become more interesting, as the level now have an interactive platform that they can used in multiple way. To advance in sections with passthrough platform, the player must think out of the box. 
 
 ### 2.2. Checkpoints
 
-### 2.3. Chompers
-
 ### 2.4. Health Pickups
 
-### 2.5. Keys
-
-
-### 2.7. Passthrough Platforms
-
-### 2.8. Spikes
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
