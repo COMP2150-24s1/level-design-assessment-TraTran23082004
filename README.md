@@ -22,6 +22,7 @@ Outline and justify how your level design facilitates the core player experience
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 In general, the player would learn how to move and jump to avoid obstacles like acid, spikes and also the enemies (if they don't want to fight them). They would also learn to ultilize the weapons being given. For example, aside from using gun to shot the spitter, the gun can also be used to activate the one-time switch in puzzles. The player would also learn different type of platform and their mechanics like the moving platform or the move-through platform. To make all of the above feasible and interesting to play, I introduce more encounters as the player progres further into the game. No encounters are repeated and I also tried to have as least negative space as possible to avoid boredom. Scene 1 is put in the middle of the whole level and is connected to Scene 3 through Scene 2 so the player can naturally progress as how I intended without feeling forced. Scene 1 mostly introduce simple mechanics and easy encounters to teach players the basic of the game. Then as they move on to other scenes, more encounters are added along with enhanced difficulty. 
 ![Using gun to activate the Switch](DocImages/Image2.png)
+![Increase difficulty](DocImages/Image10.png)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -33,7 +34,7 @@ The Intensity curve will go up quite quickly as the player progress through the 
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 The main challenges are: Get by sections with acid safely, navigate through moving platforms, dealing with enemies and solving puzzles. To balance these challenges, I avoid combining too many of them in a small section so that the player don't get overwhelmed and feel underpowered while facing those challenges. If I combine many of these challenges, I make sure to put them together at the most basic level to ensure that after getting all the basic mechanics, the player can get through them after a few tries. For the scene 3, at the final section, I did put in alot of challenges such as adding more Moving platform while also increase the frequency of enemies, but managed to balance it out by placing more health pick-up and put in the checkpoint after the player manage to overcome most enemies. By balancing between risk and rewards, the player will feel more motivated to face optional challenges and keep the flow going by increasing the difficulty in a creative way.No encounters are too similar to make the player feel less repetitive and more immersive into the game world. 
 ![Increased enemies with added health pick up and checkpoint](DocImages/Image3.png)
-![Combining different challenges at a basic level](DocImages/Image4.png)
+![Combining different challenges at a basic level](DocImages/Image11.png)
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
@@ -103,6 +104,8 @@ No additional words are necessary for this section (any words should only be wit
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+
+Iterative design helped me to expand the game map further by adding in more challenges and fill negative spaces with meaningful encounters or pick-up items. Interative design is also greatly useful in balancing the game and keep the flow going without making the player feeling too bored or frustrated. Many encounters are improved after prototyping or play testing in terms of difficulty and enjoyability. Many of the encounters are redesigned after play-testing due to being too challenging or simply not just fun to play or might not inspire the player to continue playing. 
 
 ## Generative AI Use Acknowledgement
 
