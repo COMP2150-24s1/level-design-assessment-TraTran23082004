@@ -50,7 +50,14 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
+### Ecounter 2: 
+![Encounter2](storyboard1/.png)
 ### 2.1. Acid
+The acid is placed so that the player think twice and act more careful before they make any jump. 
+### 2.9. Spitters
+The spitter urges the player to think and move faster so that they can avoid being hit by it. This enemy is used to create an early intensity and to introduce the player to the game's active enemies.
+### 2.6. Moving Platforms
+Moving platform are used to increase intensity from just normal platform created by tiles. Upon reaching this platform, the player have to consider when to jump on, how long should they wait, when to jump off,etc thus create intensity. 
 
 ### 2.2. Checkpoints
 
@@ -60,13 +67,10 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.5. Keys
 
-### 2.6. Moving Platforms
 
 ### 2.7. Passthrough Platforms
 
 ### 2.8. Spikes
-
-### 2.9. Spitters
 
 ### 2.10. Weapon Pickup (Gun)
 
