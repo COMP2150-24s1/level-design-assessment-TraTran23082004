@@ -106,7 +106,10 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
-Iterative design helped me to expand the game map further by adding in more challenges and fill negative spaces with meaningful encounters or pick-up items. Interative design is also greatly useful in balancing the game and keep the flow going without making the player feeling too bored or frustrated. Many encounters are improved after prototyping or play testing in terms of difficulty and enjoyability. Many of the encounters are redesigned after play-testing due to being too challenging or simply not just fun to play or might not inspire the player to continue playing. 
+Iterative design helped me to expand the game map further by adding in more challenges and fill negative spaces with meaningful encounters or pick-up items.Compared to the paper prototypes, the map are bigger and many encounters are improved to create connecity and keep the flow going. 
+![Early map](DocImages/Image13.png)
+Interative design is also greatly useful in balancing the game and keep the flow going without making the player feeling too bored or frustrated. Many encounters are improved after prototyping or play testing in terms of difficulty and enjoyability. Many of the encounters are redesigned after play-testing due to being too challenging or simply not just fun to play or might not inspire the player to continue playing. For instance, this encounter in Section 3 can be pretty boring and lower the intensity since it's simply just jumping on the moving platform and fight the chomper(optional). With iterative design, I belive this encounter can be much more interesting and challenging by adding new mechanics. 
+![Encounter](DocImages/Image12.png)
 
 ## Generative AI Use Acknowledgement
 
