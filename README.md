@@ -57,31 +57,31 @@ The gun can be used to attack enemies from long-range even before they start mov
 ### Encounter 1: 
 ![Encounter1](DocImages/storyboard1.png)
 ### 2.2. Acid
-The acid is placed so that the player think twice and act more careful before they make any jump. 
+The acid is placed so that the player think twice and act more careful before they make any jump. The acid is also used to increase the intensity the player feels between every jump. 
 ### 2.3. Moving Platforms
-Moving platform are used to increase intensity from just normal platform created by tiles. Upon reaching this platform, the player have to consider when to jump on, how long should they wait, when to jump off,etc thus create intensity. 
+Moving platform are used to increase intensity since they require more thinking compared to normal unmoveable platform created by tiles. Upon reaching this platform, the player have to consider when to jump on, how long should they wait, when to jump off,etc thus create a sense of discovery. Even if the player failed to make the first jump, it would still act as a lesson so that they will get better in later tries . 
 ### 2.4. Spitters
 The spitter urges the player to think and move faster so that they can avoid being hit by it. This enemy is used to create an early intensity and to introduce the player to the game's active enemies.
 ### 2.5. Checkpoints
-The checkpoint is placed since this first encounter can be quite frustrating for many players, so the checkpoint make sure that they would not have to get through this tricky section again when they fell. 
+The checkpoint is placed since this first encounter can be quite frustrating for many players, so the checkpoint make sure that they would not have to get through this tricky section again when they fell. This create a "safe space" for the player and encourage them to keep playing as they don't have to repeat a hard encounter multiple times just to advance. 
 
 ### Encounter 2: 
 ![Encounter2](DocImages/storyboard3.png)
 ### 2.6. Weapon Pickup (Staff)
-The staff can be used for close-range attack, and unlike the gun, it doesn't have any limit on how many time the player can use it. 
+The staff can be used for close-range attack, and unlike the gun, it doesn't have any limit on how many time the player can use it. This is good for enemies like the Chomper, and can also be used to attack multiple enemies at once. Picking up the staff also means that the player is fully equipped for the journey ahead.  
 ### 2.7. Chompers
-The chomper is placed so that the player can immediately see the use of the staff since if they don't defeat the chomper, they will have trouble obtaining the key.
+The chomper is placed so that the player can immediately see the use of the staff since if they don't defeat the chomper, they will have trouble obtaining the key. Placing the chomper here is to also introduce the player to a new type of enemy, what can it do and how to effectively defeat it. 
 ### 2.8. Keys
-Key is placed after the player has finished a handful of challenges in this section. To get to the key, they must defeat or get around the chomper for additional challenge to increase the drama and keep the flow going. 
+Key is placed after the player has finished a handful of challenges in this section. To get to the key, they must defeat or get around the chomper for additional challenge to increase the drama and keep the flow going. The player can advance further without the key, but they woule eventually have to comeback to get it as this is the most important item in each section. 
 
 ### Encounter 3:
 ![Encounter3](DocImages/storyboard4.png)
 ### 2.9. Spikes
 The spikes are used to create visible risks for the player, it make them rethink their route and indirectly hint which way to jump and which direction to move towards. In this case, it help showing the player where the passthrough platform is. 
 ### 2.10. Passthrough Platforms
-Passthrough platform is used to make the game become more interesting, as the level now have an interactive platform that they can used in multiple way. To advance in sections with passthrough platform, the player must think out of the box. 
+Passthrough platform is used to make the game become more interesting, as the level now have an interactive platform that they can used in multiple way. To advance in sections with passthrough platform, the player must think out of the box to learn how to use this type of platform effectively.
 ### 2.11. Health Pickups
-This is the final reward after the scene to make the player feel more statisfied and encouraged as their hard earn work is greatly reward and also motivated them to move to harder challenges as they just been a given another health. 
+This is the final reward after the scene to make the player feel more statisfied and encouraged as their hard earn work is greatly reward and also motivated them to move to harder challenges as they just been a given another heart. If their hreats are full, the pick up box would not be opened so that they can comeback to obtain a heart whenever they need. 
 
 
 ## 3. Spatiotemporal Design
@@ -106,9 +106,9 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
-Iterative design helped me to expand the game map further by adding in more challenges and fill negative spaces with meaningful encounters or pick-up items.Compared to the paper prototypes, the map are bigger and many encounters are improved to create connecity and keep the flow going. 
+Iterative design helped me to expand the game map further by adding in more challenges and fill negative spaces with meaningful encounters or pick-up items.Compared to the paper prototypes, the map are bigger and many encounters are improved to create connectivity and keep the flow going. Compared to the final work, the realy map is pretty basic and lack of a consistent increase in difficulty, which can lead to the player quitting mid level due to boredom. On the other hand, when I tried to trenmendously increase the challenges by adding more acid surfaces, moving platforms, new enemies into some encounters, they become near impossible to beat and take too many tries. The encounters are clearly challenging, but not challenging in a fun way, but rather appear to be very frustrating. After many play-testing attempt, I finally manage to balance the difficulty by designing more safe space along with make later encounter much harder, but not impossible to get through quickly once the player get the mechanics of them. 
 ![Early map](DocImages/Image13.png)
-Interative design is also greatly useful in balancing the game and keep the flow going without making the player feeling too bored or frustrated. Many encounters are improved after prototyping or play testing in terms of difficulty and enjoyability. Many of the encounters are redesigned after play-testing due to being too challenging or simply not just fun to play or might not inspire the player to continue playing. For instance, this encounter in Section 3 can be pretty boring and lower the intensity since it's simply just jumping on the moving platform and fight the chomper(optional). With iterative design, I belive this encounter can be much more interesting and challenging by adding new mechanics. 
+Interative design is also greatly useful in balancing the game and keep the flow going without making the player feeling too bored or frustrated. Many encounters are improved after prototyping or play testing in terms of difficulty and enjoyability. Many of the encounters are redesigned after play-testing due to being too challenging or simply not just fun to play or might not inspire the player to continue playing. For instance, this encounter in Section 3 can be pretty boring and lower the intensity since it's simply just jumping on the moving platform and fight the chomper(optional). With iterative design, I belive this encounter can be much more interesting and challenging by adding new mechanics. Ideally, I can introduce a new problem solving puzzle since in the level, the puzzle solving are quite scarce and only appeared maybe once or twice in the 2 later sections. The puzzles are also pretty easy to solve and might not even take any tries, so adding harder puzzle will make the player more invested into the game and make their journey to reach to the Key Door more memorable. This will also make the Health pick-up become more valuable as the player must solve a hard puzzle and also beat a Chomper to be able to obtain this. 
 ![Encounter](DocImages/Image12.png)
 
 ## Generative AI Use Acknowledgement
