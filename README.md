@@ -21,14 +21,14 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 In general, the player would learn how to move and jump to avoid obstacles like acid, spikes and also the enemies (if they don't want to fight them). They would also learn to ultilize the weapons being given. For example, aside from using gun to shot the spitter, the gun can also be used to activate the one-time switch in puzzles. The player would also learn different type of platform and their mechanics like the moving platform or the move-through platform. To make all of the above feasible and interesting to play, I introduce more encounters as the player progres further into the game. No encounters are repeated and I also tried to have as least negative space as possible to avoid boredom. Scene 1 is put in the middle of the whole level and is connected to Scene 3 through Scene 2 so the player can naturally progress as how I intended without feeling forced. Scene 1 mostly introduce simple mechanics and easy encounters to teach players the basic of the game. Then as they move on to other scenes, more encounters are added along with enhanced difficulty. 
-![Using gun to activate the Switch](DocImages/Image2.png)
 ![Increase difficulty](DocImages/Image10.png)
+![Using gun to activate the Switch](DocImages/Image2.png)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 The Intensity curve will go up quite quickly as the player progress through the level since the encounters are increased and negative spaces are minimized. The intensity curve will reach it peak when the player face the final challenge: Navigating through 3 moving platforms and deal with an active spitter to reach the key door. The curve will then significantly decrease as the player has landed safely to the key door section and there are no more challenges. For moments of relieve, i tend to put the checkpoints after the player has finished the main challenges of that level. Near the checkpoints are health pick up so that the player feel a sense of safety by giving them rewards. Except for the last Chomper at Scene 3, other enemies don't spawn after the player defeated them so the player can safely making tries to advance without having to worry about the extra annoyance from enemies. The majority of tension moments are placed in Scene 3, focusing on the path lead to the Scene and also the final section of it with the use of Moving platforms, making the player feel more intense everytime they have to make a jump. 
-![Intensity curve](DocImages/Image5.png)
 ![Moving platforms to increase Intensity](DocImages/Image6.png)
+![Intensity curve](DocImages/Image5.png)
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
@@ -90,6 +90,7 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
+![Level Map 1](DocImages/Moleculediagram.png)
 
 ### 3.2. Level Map – Section 1
 ![Level Map 1](DocImages/annotation1.png)
